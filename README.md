@@ -1,5 +1,6 @@
 ## Hello World, I'm Ellie 👋
-
+## 🎓 Junior at UCLA, studying Computer Science and Linguistics
+[Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg
 <!--
 **ellietownsend/ellietownsend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
